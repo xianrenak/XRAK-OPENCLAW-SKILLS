@@ -1,4 +1,4 @@
-# XRAK-SKILLS
+# XRAK-OPENCLAW-SKILLS
 
 A collection of custom skills for **OpenClaw** agents.
 
